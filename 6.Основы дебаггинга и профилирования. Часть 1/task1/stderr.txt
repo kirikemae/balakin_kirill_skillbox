@@ -1,0 +1,18 @@
+19:59:58: INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+19:59:58: INFO - [33mPress CTRL+C to quit[0m
+19:59:58: INFO -  * Restarting with stat
+19:59:58: WARNING -  * Debugger is active!
+19:59:58: INFO -  * Debugger PIN: 117-707-953
+20:00:18: INFO - 127.0.0.1 - - [24/Mar/2024 20:00:18] "[33mGET / HTTP/1.1[0m" 404 -
+20:00:18: INFO - 127.0.0.1 - - [24/Mar/2024 20:00:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+20:00:21: INFO - 127.0.0.1 - - [24/Mar/2024 20:00:21] "[33mGET / HTTP/1.1[0m" 404 -
+20:00:56: INFO - 127.0.0.1 - - [24/Mar/2024 20:00:56] "[33mGET / HTTP/1.1[0m" 404 -
+20:00:58: INFO - 127.0.0.1 - - [24/Mar/2024 20:00:58] "[33mGET / HTTP/1.1[0m" 404 -
+20:01:03: INFO - 127.0.0.1 - - [24/Mar/2024 20:01:03] "[33mGET / HTTP/1.1[0m" 404 -
+20:02:53: INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+20:02:53: INFO - [33mPress CTRL+C to quit[0m
+20:02:53: INFO -  * Restarting with stat
+20:02:54: WARNING -  * Debugger is active!
+20:02:54: INFO -  * Debugger PIN: 117-707-953
